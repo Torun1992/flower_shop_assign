@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* common shered styles */
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header related styles */
+.banner {
+    display: flex;
+    width: 1920;
+    height: 850px;
+    background-color: rgba(229, 84, 115, 0.10);
+    align-items: center;
+
+}
+
+.banner-content {
+    width: 800px;
+
+
+}
+
+.banner-greeting {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 700;
+    width: 708px;
+    margin-left: 150px;
+
+
+}
+
+.banner-description {
+    width: 700px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+
+}
+
+.btn-primary {
+    margin-left: 150px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background-color: #E55473;
+}
+
+
+
+.banner .flower-pic {
+    width: 635px;
+    height: 800px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+/* main related style */
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 178px;
+}
+
+.section-description{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left 663px;
+
+
+}
+
