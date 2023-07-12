@@ -3,7 +3,6 @@
     padding: 0px;
 }
 
-
 /* common shered styles */
 body {
     font-family: 'Lato', sans-serif;
@@ -32,7 +31,6 @@ body {
     width: 708px;
     margin-left: 150px;
 
-
 }
 
 .banner-description {
@@ -45,8 +43,6 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 
-
-
 }
 
 .btn-primary {
@@ -55,8 +51,6 @@ body {
     border-radius: 8px;
     background-color: #E55473;
 }
-
-
 
 .banner .flower-pic {
     width: 635px;
@@ -115,6 +109,8 @@ body {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+    margin-top: 32px;
+    margin-left:160px;
 }
 
 /* .banner-2 related style */
@@ -159,7 +155,6 @@ body {
     padding-top: 100px;
     padding-right: 1175px;
 
-
 }
 
 /* boxes related section */
@@ -178,7 +173,7 @@ body {
 .media {
     margin-left: 550px;
     margin-top: 128px;
-    margin-bottom: 128px;
+    margin-bottom: 12px;
     color: #272727;
     text-align: center;
     font-size: 40px;
@@ -195,6 +190,7 @@ body {
     padding-bottom: 40px;
     margin-left: 663px;
     text-align: center;
+    margin-bottom: 12px;
 
 }
 
@@ -210,7 +206,7 @@ body {
     position: relative;
     text-align: center;
     color: white;
-  }
+}
 
 /* footer-related-style */
 
@@ -230,12 +226,10 @@ body {
     padding-bottom: 12px;
     padding-top: 210px;
 
-
-
 }
 
-.primary{
-    color:  #E55473;
+.primary {
+    color: #E55473;
 }
 
 .footer-description {
@@ -247,6 +241,5 @@ body {
     line-height: 30px;
     margin-left: 648px;
     padding-top: 12px;
-    
 
 }
