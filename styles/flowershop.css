@@ -23,7 +23,6 @@ body {
 .banner-content {
     width: 800px;
 
-
 }
 
 .banner-greeting {
@@ -77,14 +76,122 @@ body {
     margin-top: 178px;
 }
 
-.section-description{
+.section-description {
     width: 594px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    margin-left 663px;
+
+}
+
+/* about-box */
+
+.about-box {
+    padding-left: 226px;
+    padding-right: 226px;
+    display: flex;
+    justify-items: center;
+    gap: 24px;
+}
+
+.box-pic {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15)
+}
+
+.box-title {
+    display: flex;
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+/* .banner-2 related style */
+.banner-2 {
+    display: flex;
+    width: 1920px;
+    height: 600px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 100px;
+
+}
+
+.offer-section {
+
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.banner-2-description {
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.about-offer {
+    margin-left: 300px;
+    padding-top: 220px;
+
+}
+
+.red-flower {
+    padding-top: 100px;
+    padding-right: 1175px;
 
 
 }
 
+/* boxes related section */
+
+.boxes-flo {
+    display: flex;
+    gap: 24px;
+    margin-right: 240px;
+    margin-left: 240px;
+}
+
+.about-media {
+    margin-right: 623px;
+}
+
+.media {
+    margin-top: 128px;
+    margin-bottom: 128px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.media-description {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+/* Section-last-part related style */
+
+.long-pic{
+    margin-left:240px;
+    margin-top: 100px; 
+}
